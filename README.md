@@ -1,6 +1,3 @@
 # LanguageArts
 
-Seriously, this is a stupid thing to do.<br>
-Actually this was just my school language arts assignment.<br>
-Now I made it into a website using Github hosting.<br>
-How stupid but exciting this kind of shit is.<br>
+What a stupid thing is it to make Language Arts Assignment into Web
